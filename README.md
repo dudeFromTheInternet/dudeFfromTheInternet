@@ -11,6 +11,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudeFromTheInternet&layout=compact)](https://github.com/dudeFromTheInternet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudeFromTheInternet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dudeFromTheInternet&" alt="dudeFromTheInternet" /></p>
